@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-with, initial-scale=1.0">
+	<title>Ester Samaniego's contact</title>
+	
+	<style>
+		body {background-color: #cdc9c3}
+		.white-card {
+			padding:30px;
+			margin: 45px;
+			box-shadow: 100px 150px 200px rgba(1,2,2,0.15);
+			background-color: #fbf7f0;
+			text-align: center;}
+
+	</style>
+</head>
+<body>
+	<div class="white-card">
+		<h1>Infos de contact</h1>
+		<p> Téléphone : 07 81 08 82 20<br>
+			Mail : ester.samaniego@outlook.com<br><br><p/>
+			<a href="file:///C:/Users/Ester/Desktop/MY%20PROFIL/HTML%202.html">Retour à la page d'acceuil</a>
+
+	</div>
+
+</html>
