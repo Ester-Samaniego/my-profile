@@ -86,7 +86,7 @@ h2, h3 {
 }
 @media (max-width: 540px) {
   .container {
-    width: 400px;
+    width: 300px;
   }
 }
 
